@@ -1,0 +1,18 @@
+package main.java.com.example.rest_lr15_copy_part3.service;
+
+import main.java.com.example.rest_lr15_copy_part3.model.Response;
+import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Service;
+
+@Service
+@RequiredArgsConstructor
+@Qualifier("ModifyErrorMassage")
+
+public class ModifyErrorMassage implements MyModifyService {
+    @Override
+    public Response modify(Response response) {
+        response.setErrorMessage("Что-то сломалось");
+        return response;
+    }
+}
