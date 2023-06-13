@@ -1,6 +1,6 @@
-package main.java.com.example.rest_lr15_copy_part3.service;
+package com.example.rest_lr15_copy_part3.service;
 
-import main.java.com.example.rest_lr15_copy_part3.model.Request;
+import com.example.rest_lr15_copy_part3.model.Request;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpMethod;

@@ -1,4 +1,4 @@
-package main.java.com.example.rest_lr15_copy_part3.model;
+package com.example.rest_lr15_copy_part3.model;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.NotBlank;

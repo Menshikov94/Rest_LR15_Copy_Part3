@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6563a80-d901-46bf-a5ea-c1b49df1684a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rest_LR15_Copy_Part3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/RestLr15CopyPart3Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/model/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/model/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/ModifyErrorMassage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/ModifyRequestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/ModifyRequestSystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/ModifySystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/ModifyUid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com/example/rest_lr15_copy_part3/service/MyModifyService.java" afterDir="false" />
+    <list default="true" id="d6563a80-d901-46bf-a5ea-c1b49df1684a" name="Changes" comment="Lr15">
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper (1).properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper (2).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/RestLr15CopyPart3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/model/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/ModifyErrorMassage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/ModifyRequestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/ModifyRequestSystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/ModifySystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/ModifyUid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_cope_part3/service/MyModifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application (1).properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/rest_lr15_copy_part3/RestLr15CopyPart3ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/RestLr15CopyPart3Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/controller/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/model/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/ModifyErrorMassage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/ModifyRequestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/ModifyRequestSystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/ModifySystemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/ModifyUid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rest_lr15_copy_part3/service/MyModifyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +57,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mmenshikov/IdeaProjects/Rest_LR15_Copy_Part3/src/main/resources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mmenshikov\IdeaProjects\Rest_LR15_Copy_Part3" />
+      <recent name="C:\Users\mmenshikov\IdeaProjects\Rest_LR15_Copy_Part3\src\main\resources" />
+      <recent name="C:\Users\mmenshikov\IdeaProjects\Rest_LR15_Copy_Part3\.mvn\wrapper" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="RestLr15CopyPart3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.com.example.rest_lr15_copy_part3.RestLr15CopyPart3Application" />
@@ -80,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686664063160</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lr15">
+      <created>1686664641088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686664641089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lr15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lr15" />
   </component>
 </project>
